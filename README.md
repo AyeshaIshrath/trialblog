@@ -1,1 +1,2 @@
 # trialblog
+Learning Django! :D
